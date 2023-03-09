@@ -433,7 +433,7 @@ id,state,county,jail,year,date_of_death,full_name,last_name,first_name,mid_name,
 504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2009,10/24/2009,,MOYAL,MAURICE,SOLY,,,M,,12/20/1964,,45,W,,M,U,
 504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2009,5/11/2009,,STRODA,MICHAEL,,,,M,,2/27/1959,,51,B,,M,U,
 504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2012,6/16/2012,,CASIO,GERARDO,ARTURO,,,M,,1/1/1950,,62,H,,M,U,
-504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2012,10/30/2012,,MCCULLOUGH,DONALD,RAY,,,DA,“excessive delirium syndrome associated with acute methamphetamine intoxication.”,,,58,B,,M,U,COD; Age confirmation
+504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2012,10/30/2012,,MCCULLOUGH,DONALD,RAY,,,DA,Â“excessive delirium syndrome associated with acute methamphetamine intoxication.Â”,,,58,B,,M,U,COD; Age confirmation
 504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2013,3/22/2013,,BEHIEL,JOSEPH,ARTHUR,,,S,"Hanging,Strangulation",6/5/1991,,21,W,,M,U,
 504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2013,2/1/2013,,JACKSON,ALVIN,NOEL,,,M,,12/9/1966,,46,O,,M,C,
 504,CA,Contra Costa,Contra Costa Martinez Detention Facility,2014,3/20/2014,,BREMER,DAVID,FILKINS,,,S,,6/19/1989,,24,W,,M,U,
@@ -1317,7 +1317,7 @@ id,state,county,jail,year,date_of_death,full_name,last_name,first_name,mid_name,
 58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2016,11/30/2016,,ALMEJO,SERGIO,RUBEN,,,S,"Hanging,Strangulation",10/21/1969,,,H,,M,C,
 58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2016,5/9/2016,,MONTELEONE,GINO,,,,M,,12/22/1966,,,W,,M,C,
 58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2016,10/29/2016,,HELTON,NICHOLAS,DALE,,,S,Other,12/23/1977,,,W,,M,U,
-58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2017,11/2/2017,,KENYON,JAMES,FRANCIS,,,AC,"“Asphyxia, due to Aspiration of Food Bolus,” and the manner of death was Accident. ",4/12/1972,,,W,,M,U,
+58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2017,11/2/2017,,KENYON,JAMES,FRANCIS,,,AC,"Â“Asphyxia, due to Aspiration of Food Bolus,Â” and the manner of death was Accident. ",4/12/1972,,,W,,M,U,
 58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2017,12/16/2017,,MOORE,CHADWICK,JAMES,,,S,"Hanging,Strangulation",6/14/1972,,,W,,M,C,
 58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2018,9/1/2018,,JEFFERSON,FREDERICK,BURNETT,,,S,"Hanging,Strangulation",9/3/1978,,,B,,M,C,
 58,CA,San Diego,San Diego County George F. Bailey Detention Facility,2019,5/13/2019,,Curry,Dennis,Lee,,5/3/2019,M,,11/2/1955,,,B,,M,U,
@@ -1362,7 +1362,7 @@ id,state,county,jail,year,date_of_death,full_name,last_name,first_name,mid_name,
 60,CA,San Diego,San Diego County Vista Detention Facility,2017,9/25/2017,,MACABINLAR,MICHAEL,,,,DA,Acute methamphetamine intoxication; dilated cardiomyopathy; hypertensive and atherosclerotic cardiovascular disease,8/15/1983,,,B,,M,C,
 60,CA,San Diego,San Diego County Vista Detention Facility,2017,4/25/2017,,GEORGE,STEPHEN,MICHAEL,,,M,,5/7/1949,,,W,,M,U,
 60,CA,San Diego,San Diego County Vista Detention Facility,2017,3/18/2017,,STUCKI,BRUCE,MADSEN,,,M,,3/6/1964,,,W,,M,U,
-60,CA,San Diego,San Diego County Vista Detention Facility,2018,7/11/2018,,GOMEZ,MICHAEL,MANUEL,,,M,“Myocardial Infarction” [heart attack] and the manner of death was natural.,9/3/1981,,,H,,M,C,
+60,CA,San Diego,San Diego County Vista Detention Facility,2018,7/11/2018,,GOMEZ,MICHAEL,MANUEL,,,M,Â“Myocardial InfarctionÂ” [heart attack] and the manner of death was natural.,9/3/1981,,,H,,M,C,
 60,CA,San Diego,San Diego County Vista Detention Facility,2018,3/22/2018,,MAAS,STEPHEN,CLIFFORD,,,M,,10/1/1948,,,W,,M,U,
 60,CA,San Diego,San Diego County Vista Detention Facility,2019,8/26/2019,,Lopez,Julio,Ortiz,,8/24/2019,S,,1/9/1971,,,H,,M,U,
 60,CA,San Diego,San Diego County Vista Detention Facility,2019,2/7/2019,,Castiglione,Joseph,,,2/7/2019,DA,,3/7/1962,,,W,,M,U,
@@ -3098,11 +3098,11 @@ id,state,county,jail,year,date_of_death,full_name,last_name,first_name,mid_name,
 136,IN,La Porte,La Porte County Jail,2015,4/19/2015,,Barnes,Rachel,,,4/18/2015,DA,suffered seizure from alcohol withdrawal ,,,33,W,,F,U,name
 136,IN,La Porte,La Porte County Jail,2017,7/15/2017,,Roberts,Andrea,,,6/2/2017,DA,fentanyl overdose,,,35,B,,F,C,name
 136,IN,La Porte,La Porte County Jail,2017,1/20/2017,,Hein,Ryan,,,1/16/2017,S,asphyxiation by hanging,,,26,W,,M,U,name
-139,IN,Marion,Marion County Jail II,2010,6/xx/2010,,Sims,Timothy,,,,,,,,,,,,,
-139,IN,Marion,Marion County Jail II,2010,5/xx/2010,,Carey ,Christopher,,,,,,,,,,,,,
-139,IN,Marion,Marion County Jail II,2012,12/xx/2012,,Bunton,Alvin,,,,,,,,,,,M,,
-139,IN,Marion,Marion County Jail II,2014,12/xx/2014,,Page,Jeffery,,,,,,,,,,,M,,
-139,IN,Marion,Marion County Jail II,2015,9/xx/2015,,Camphor,Sylvester,,,,,,,,,,,M,,
+139,IN,Marion,Marion County Jail II,2010,6/2010,,Sims,Timothy,,,,,,,,,,,,,
+139,IN,Marion,Marion County Jail II,2010,5/2010,,Carey ,Christopher,,,,,,,,,,,,,
+139,IN,Marion,Marion County Jail II,2012,12/2012,,Bunton,Alvin,,,,,,,,,,,M,,
+139,IN,Marion,Marion County Jail II,2014,12/2014,,Page,Jeffery,,,,,,,,,,,M,,
+139,IN,Marion,Marion County Jail II,2015,9/2015,,Camphor,Sylvester,,,,,,,,,,,M,,
 139,IN,Marion,Marion County Jail II,2016,10/14/2016,,Grant,Nicholas,,,,DA,swallowed a balloon full of heroin during a drug shakedown of the jail ,,,27,W,,M,U,"name, age, date of death"
 139,IN,Marion,Marion County Jail II,2019,3/24/2019,,Jones,Sherwin,,,11/10/2018,M,illness,,,43,B,,M,U,"name, date of death, date of incarceration, gender, race, age"
 139,IN,Marion,Marion County Jail II,2019,12/23/2019,,Thompson,Brandon,,,10/25/2019,M,illness,,,29,B,,M,U,"name, date of death, date of incarceration, gender, race, age"
@@ -5546,7 +5546,7 @@ id,state,county,jail,year,date_of_death,full_name,last_name,first_name,mid_name,
 364,OK,Pottawatomie,Pottawatomie County Public Safety Center Trust,2012,3/28/2012,,Watson ,Chad,,,3/28/2012,DA,ACUTE COMBINED INTOXICATION WITH METHAMPHETAMINE AND ETHANOL,9/9/1985,,,AI,,M,U,
 364,OK,Pottawatomie,Pottawatomie County Public Safety Center Trust,2014,4/24/2014,,Contreras,Jordan,,,,DA,ACUTE ALCOHOL INTOXICATION,7/10/1968,,,AI,,M,,
 364,OK,Pottawatomie,Pottawatomie County Public Safety Center Trust,2018,9/5/2018,,Morton,Michael,,,8/25/2018,M,heart disease; pulmonary emohysema,10/10/1950,,,W,,M,U,
-364,OK,Pottawatomie,Pottawatomie County Public Safety Center Trust,2019,1/16/2019,,Given,Ronald,,,1/9/2019,H,"autopsy classified Given’s death as a homicide and found the probable cause to be ""multiple system organ failure."" The possible reasons behind the organ failure, according to the medical examiner’s report, included “Cardiac arrhythmia… Struggle resisting restraint by officers,” and “violent mental/psychiatric disorder.” The report also said Given had blisters on his chest, abdomen, upper back, arms, and upper thighs, as well as a contusion on the back of his head.",,,,AI,,M,U,dates
+364,OK,Pottawatomie,Pottawatomie County Public Safety Center Trust,2019,1/16/2019,,Given,Ronald,,,1/9/2019,H,"autopsy classified GivenÂ’s death as a homicide and found the probable cause to be ""multiple system organ failure."" The possible reasons behind the organ failure, according to the medical examinerÂ’s report, included Â“Cardiac arrhythmiaÂ… Struggle resisting restraint by officers,Â” and Â“violent mental/psychiatric disorder.Â” The report also said Given had blisters on his chest, abdomen, upper back, arms, and upper thighs, as well as a contusion on the back of his head.",,,,AI,,M,U,dates
 359,OK,Tulsa,David L. Moss Criminal Justice Center,2008,9/23/2008,,Temple,Junior,Paul,,9/16/2008,,,8/9/1945,,,W,,M,U,
 359,OK,Tulsa,David L. Moss Criminal Justice Center,2009,11/16/2009,,Jones,Ray,,,10/8/2009,M,HYPERTENSIVE CARDIOVASCULAR DISEASE,5/11/1956,,,B,,M,U,
 359,OK,Tulsa,David L. Moss Criminal Justice Center,2009,7/31/2009,,JERNEGAN,CHARLES,,,7/27/2008,S,hanging,6/3/1977,,,W,,M,U,
